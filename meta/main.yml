@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Aron Szekely
+  description: Ansible gpg lookup plugin
+  company: PeopleDoc
+  min_ansible_version: 2.1
+  platforms:
+  - name: Ubuntu
+    versions:
+      - Trusty
+  categories:
+  - encryption
+
+dependencies: []
